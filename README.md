@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hal Dhami
 - 👀 I’m interested in integrating ML/DL practices into the field of Process Engineering
-- 🌱 I’m currently learning Cloud Development and Python.
+- 🌱 I’m currently learning Data Science practices using Python.
 - 📫 How to reach me: 
 
      Email: hal.dhami@gmail.com
